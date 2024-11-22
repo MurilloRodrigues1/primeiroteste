@@ -1,0 +1,179 @@
+body{
+    background-color:#F9F9F9;
+}
+
+.topo{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.box{
+    margin-top: 20px;
+    width: 1160px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.logo{
+    width: 80px;
+    height: 80px;
+}
+
+.oslinks{
+    font-family: Roboto_regular;
+    margin-left: 20px;
+}
+
+.banner{
+    width: 1160px;
+    height: 580px;
+}
+
+@font-face {
+    font-family: Roboto_regular;
+    src: url(../assets/fonts/Roboto-Regular.ttf);
+}
+
+@font-face {
+    font-family: Poppins_regular;
+    src: url(../assets/fonts/Poppins-Regular.ttf);
+}
+
+.mudarlink{
+    color: black;
+    text-decoration: none;
+    font-family: Roboto_regular;
+    margin-top: 231px;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23.44px;
+}
+
+.ostextos{
+    margin-top: 40px;
+}
+
+.otitulo{
+    font-family: Poppins_regular;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 60px;
+}
+
+.osparagrafos{
+    font-family: Roboto_regular;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.direitosindex{
+    text-align: center;
+    margin-top: 231px;
+    font-family: Roboto_regular;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23.44px;
+}
+
+.linkdapag{
+    color: #1836B2;
+    text-decoration: none;
+    font-family: Roboto_regular;
+    margin-top: 231px;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23.44px;
+}
+
+.alinha{
+    color: #D9D9D9;
+    margin-top: 30px;
+}
+
+.alista{
+    margin-left: -20px;
+    font-family: Roboto_regular;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.listamargens{
+    margin-top: 20px;
+}
+
+.direitossobre{
+    text-align: center;
+    margin-top: 417px;
+    font-family: Roboto_regular;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23.44px;
+}
+
+.titulodocontato{
+    font-family: Poppins_regular;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 36px;
+    margin-bottom: 40px;
+}
+
+.direitoscontato{
+    text-align: center;
+    margin-top: 37px;
+    font-family: Roboto_regular;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23.44px;
+}
+
+.formulariotextos{
+    margin-top: 20px;
+    width: 59px;
+    font-family: Roboto_regular;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23.44px;
+    color: #414141;
+    width:300px
+}
+
+.inputall{
+    margin-top: 26px;
+    margin-bottom: 20px;
+    width: 560px;
+    height: 40px;
+    border: 1px 0px 0px 0px;
+}
+
+.inputmsg{
+    margin-top: 26px;
+    margin-bottom: 40px;
+    width: 560px;
+    height: 200px;
+    border: 1px 0px 0px 0px;
+}
+
+.obotao{
+    margin-top: 20px;
+    padding: 10px;
+    gap: 10px;
+    width: 260px;
+    height: 70px;
+    left: 140px;
+    top: 1022px;
+    background: #1836B2;
+    font-family:Poppins_regular;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 36px;
+    color: #FFFFFF;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin-bottom: 50px;
+}
